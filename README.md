@@ -1,5 +1,5 @@
 # CSE-300-Technical-Writing-and-Presentation
-#Objectives
+# Objectives
 Issues of technical writing and effective oral presentation in Computer
 Science and Engineering; Writing styles of definitions, propositions,
 theorems and proofs; Preparation of reports, research papers, theses
