@@ -1,6 +1,14 @@
 \documentclass{article}
 \usepackage{tikz}
 
+
+\definecolor{myorange}{RGB}{229, 152, 102 }
+\definecolor{myviolet}{RGB}{165, 105, 189}
+\definecolor{myblue}{RGB}{21, 67, 96}
+\definecolor{myback}{RGB}{214,234,248}
+
+
+
 \newtheorem{theorem}{Theorem}[section]
 
 \title{Pythagorean Theorem}
@@ -50,7 +58,7 @@ the first to provide with a sound proof. The proof that Pythagoras gave was by r
 \begin{figure}[h]
     \centering
     \begin{tikzpicture}[scale=2][>=stealth]
-  		\draw[thick,blue] (0,0) circle (1cm);
+  		\draw[ultra thick,myblue] (0,0) circle (1cm);
 		\draw[cyan] (0,0) -- (3mm,0mm) arc (0:30:3mm) -- cycle ;
 		\node at (4mm,1mm) {$\theta$};
 		\draw[thick,red] (0,0) -- node[above,sloped] {r=1} (30:1cm) ;
@@ -60,8 +68,10 @@ the first to provide with a sound proof. The proof that Pythagoras gave was by r
 		\draw[cyan] (30:1cm -| y axis) -- (30:1cm);
 		\draw[black] (30:1cm ) -- (30:1cm -| x axis) ;
 		\draw  (30:1cm )  -- ({sqrt(.75)},{sqrt(.75)});
-		\draw[<->,blue] (1.1,0)-- node[right,black] {$sin\theta$} (1.1,.5);
-		\draw[<->,blue] (0,.75)-- node[above,black] {$cos\theta$} ({sqrt(.75)},.75);
+		\draw[<->,ultra thick,myblue] (1.15,0)--  (1.15,.5);
+		\draw[<->,ultra thick,myblue] (0,.65)--  ({sqrt(.75)},.65);
+		\node  at (.35,.75) {$cos \theta$};
+		\node  at (1.35,.25) {$sin \theta$};
 	\end{tikzpicture}
 	\caption{Alternate representation of Pythagorean theorem.}
 	\label{fig:representation2}
