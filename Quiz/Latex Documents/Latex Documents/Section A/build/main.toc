@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Animation}{5}{0}{2}
+\beamer@sectionintoc {3}{Column}{19}{0}{3}
+\beamer@sectionintoc {4}{Design and Formatting}{25}{0}{4}
