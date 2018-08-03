@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.28)  3 AUG 2018 17:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.28)  3 AUG 2018 21:40
 entering extended mode
 **./report.tex
 (report.tex
@@ -916,14 +916,14 @@ File: pics/flipflop.jpg Graphic file (type jpg)
 Package pdftex.def Info: pics/flipflop.jpg  used on input line 171.
 (pdftex.def)             Requested size: 276.00105pt x 207.21521pt.
 [6 <./pics/flipflop.jpg>] [7] [8] [9] [10]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1677
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1676
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1677.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1676.
 
  [11] [12]
 ("D:\Level 3 Term 1\My 3-1\CSE 300 TECHNICAL WRITING\CSE-300-Technical-Writing-
@@ -947,7 +947,7 @@ gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files
 9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb>
 Output written on "D:\Level 3 Term 1\My 3-1\CSE 300 TECHNICAL WRITING\CSE-300-T
-echnical-Writing-and-Presentation\Report\build\report.pdf" (12 pages, 300687 by
+echnical-Writing-and-Presentation\Report\build\report.pdf" (12 pages, 300470 by
 tes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
